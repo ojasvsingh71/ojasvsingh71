@@ -29,9 +29,10 @@
 ### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ojasvsingh71&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ojasvsingh71&theme=radical" alt="GitHub Streak" />
+  <br />
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=ojasvsingh71&theme=radical" alt="GitHub Streak" />
+  </a>
 </p>
 
 ---
-
