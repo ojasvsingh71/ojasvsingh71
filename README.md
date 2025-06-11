@@ -6,7 +6,6 @@
 - ⚛️ Exploring **React.js**, and building dynamic frontend projects  
 - 🌐 Diving deeper into **Node.js, Express.js & MongoDB**  
 - 🧠 Practicing **DSA** regularly on platforms like **[LeetCode](https://leetcode.com/u/ojasvsingh1971/)**  
-- 📫 How to reach me: **ojasvsingh0@gmail.com** | **[LinkedIn](https://www.linkedin.com/in/ojasv-singh-b80b52326/)**  
 - ✨ Fun Fact: I love clean UI and debugging gives me joy!
 
 ---
@@ -38,3 +37,16 @@
 </p>
 
 ---
+
+### 📫 How to reach me:
+- **Email**: [ojasvsingh0@gmail.com](mailto:ojasvsingh0@gmail.com)
+- **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/ojasv-singh-b80b52326/)
+
+---
+
+### 📄 Resume:
+You can view my detailed resume [here](https://drive.google.com/file/d/1Xs-FHXdGsRF_OqSLOglOW69TRjrAEkld/view?usp=sharing).
+
+---
+
+### 🚀 Check out my repositories below:
