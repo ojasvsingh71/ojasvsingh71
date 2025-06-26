@@ -45,7 +45,7 @@
 ---
 
 ### 📄 Resume:
-You can view my detailed resume [here](https://drive.google.com/file/d/1Xs-FHXdGsRF_OqSLOglOW69TRjrAEkld/view?usp=sharing).
+You can view my detailed resume [here](https://drive.google.com/file/d/1c4mVEO_VTXDMfJVz4HL-v5aj5ZQMiqsm/view?usp=sharing).
 
 ---
 
