@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ojasv Singh</h1>
-<h3 align="center">A passionate MERN Stack Developer in the making 🚀</h3>
+<h3 align="center">A passionate MERN Stack Developer 🚀</h3>
 
 - 🌱 I’m currently learning **Full Stack Web Development (MERN Stack)**  
 - 💻 I'm confident with **HTML, CSS, JavaScript, C++, Python**  
@@ -24,6 +24,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" width="40" alt="MongoDB"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="40" alt="Git"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" width="40" alt="VS Code"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" width="40" alt="Docker"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="40" width="40" alt="Postman"/>
 </p>
 
 ---
